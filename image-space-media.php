@@ -4,7 +4,7 @@
 Plugin Name: Image Space Media
 Plugin URI: http://www.pivari.com/wordpress-plugins/image-space-media-wp-plugin/
 Description: A simple Plugin to add Image Space Media code on your pages.
-Version: 1.0.0
+Version: 1.1.0
 Author: Fabrizio Pivari
 Author URI: http://www.pivari.com
  */
@@ -25,7 +25,7 @@ Author URI: http://www.pivari.com
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-$ismversion="1.0.0";
+$ismversion="1.1.0";
 
 if (!defined('WP_CONTENT_URL'))
       define('WP_CONTENT_URL', get_option('siteurl').'/wp-content');
